@@ -25,5 +25,4 @@ This project is an intelligent AI Chatbot built with the **MERN Stack** (MongoDB
 
 ---
 
-## 📁 Project Structure
 
